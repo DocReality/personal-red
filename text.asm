@@ -1832,7 +1832,7 @@ _MonWasReleasedText::
 	TX_RAM wcf4b
 	text " was"
 	line "released outside."
-	cont "Bye @"
+	cont "Bye, @"
 
 _CF4BExclamationText::
 	TX_RAM wcf4b
@@ -2567,8 +2567,8 @@ _TryingToLearnText::
 	line "can't learn more"
 	cont "than 4 moves!"
 
-	para "Delete an older"
-	line "move to make room"
+	para "Forget a move to"
+	line "make room"
 	cont "for @"
 	TX_RAM wcf4b
 	text "?"
