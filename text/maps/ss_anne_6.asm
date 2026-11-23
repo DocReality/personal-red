@@ -70,7 +70,7 @@ _SSAnne6Text_61816::
 
 _SSAnne6Text_GymGuy::
 	text "Yo! Champ in"
-	line "making!"
+	line "Making!"
 
 	para "Do I remind you of"
 	line "someone? You must"
