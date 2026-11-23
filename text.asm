@@ -2033,9 +2033,8 @@ _GameSavedText::
 	done
 
 _OlderFileWillBeErasedText::
-	text "The older file"
-	line "will be erased to"
-	cont "save. Okay?"
+	text "Overwrite the"
+	line "existing save?"
 	done
 
 _WhenYouChangeBoxText::
@@ -2215,7 +2214,7 @@ _NoEffectText::
 	prompt
 
 _ButItFailedText::
-	text "But, it failed! "
+	text "But it failed!"
 	prompt
 
 _DidntAffectText::
