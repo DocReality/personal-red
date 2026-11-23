@@ -113,7 +113,7 @@ _VermilionGymAfterBattleText3::
 
 _VermilionGymText_5cbf4::
 	text "Yo! Champ in"
-	line "making!"
+	line "Making!"
 
 	para "Lt. Surge has a"
 	line "nickname. People"

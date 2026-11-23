@@ -73,7 +73,7 @@ _TM46NoRoomText::
 
 _SaffronGymText_5d1e6::
 	text "Yo! Champ in"
-	line "making!"
+	line "Making!"
 
 	para "Sabrina's #mon"
 	line "use psychic power"

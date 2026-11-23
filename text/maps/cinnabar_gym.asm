@@ -190,7 +190,7 @@ _CinnabarGymText_75aa7::
 
 _CinnabarGymText_75ac2::
 	text "Yo! Champ in"
-	line "making!"
+	line "Making!"
 
 	para "The hot-headed"
 	line "Blaine is a fire"

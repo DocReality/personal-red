@@ -87,7 +87,7 @@ _CeladonGameCornerText_48dca::
 
 	para "You have better"
 	line "things to do,"
-	cont "champ in making!"
+	cont "Champ in Making!"
 
 	para "Celadon Gym's"
 	line "leader is Erika!"
