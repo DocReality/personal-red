@@ -40,10 +40,9 @@ _LaprasGuySavedText::
 	done
 
 _SilphCo7Text_51e00::
-	text "Team Rocket was"
-	line "after a Masterball"
-	cont "that will catch"
-	cont "any #mon!"
+	text "Team Rocket wanted"
+	line "a Masterball to"
+	cont "catch any #mon!"
 	done
 
 _CanceledMasterBallText::

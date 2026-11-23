@@ -105,11 +105,11 @@ _OaksAideHiText::
 	text "!"
 
 	para "So, <PLAYER>! Have"
-	line "you caught at"
-	cont "least @"
+	line "you caught"
+	cont "at least @"
 	TX_NUM hOaksAideRequirement, 1, 3
-	text " kinds of"
-	cont "#mon?"
+	text ""
+	cont "kinds of #mon?"
 	done
 
 _OaksAideUhOhText::
@@ -3053,7 +3053,8 @@ _IsItOKToTossItemText::
 
 _TooImportantToTossText::
 	text "That's too"
-	line "important to toss!"
+	line "important"
+	cont "to toss!"
 	prompt
 
 _AlreadyKnowsText::

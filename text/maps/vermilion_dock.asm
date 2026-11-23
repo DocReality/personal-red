@@ -3,12 +3,12 @@ _VermilionDockText1::
 	done
 
 _VermilionDockSeigaIntro::
-	text "My name is seiga."
+	text "My name is Seiga."
 	line "Though my friends"
 IF (DEF(_GREEN) || DEF(_REDJP) || DEF(_BLUEJP))
-	cont "call me blue."
+	cont "call me Blue."
 ELSE
-	cont "call me green."
+	cont "call me Green."
 ENDC
 	
 	para "I'm champ of the"

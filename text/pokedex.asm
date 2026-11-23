@@ -1123,9 +1123,9 @@ _MukDexEntry::
 	dex
 
 _KinglerDexEntry::
-	text "The large pincer"
-	next "can crush with"
-	next "10,000 horsepower."
+	text "Its large pincer"
+	next "packs 10,000"
+	next "horsepower."
 
 	page "However, its huge"
 	next "size makes it"

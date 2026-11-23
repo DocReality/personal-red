@@ -1,7 +1,7 @@
 IF DEF(_JPTXT)
 _BikeShopText_1d810::
 	text "Hi! Welcome to"
-	line "miracle cycle."
+	line "Miracle Cycle."
 
 	para "Have we got just"
 	line "the bike for you!"

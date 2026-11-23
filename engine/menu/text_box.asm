@@ -557,13 +557,13 @@ ENDC
 	next "No@"
 .NorthWestMenu
 	db   "North"
-	next "west@"
+	next "West@"
 .SouthEastMenu
 	db   "South"
-	next "east@"
+	next "East@"
 .NorthEastMenu
 	db   "North"
-	next "east@"
+	next "East@"
 .TradeCancelMenu
 	db   "Trade"
 	next "Cancel@"

@@ -49,8 +49,8 @@ _ReceivedThunderbadgeText::
 	para "You're the real"
 	line "deal, kid!"
 
-	para "Fine then, take"
-	line "the Thunder Badge!"
+	para "Fine, take the"
+	line "Thunder Badge!"
 	prompt
 
 _VermilionGymBattleText1::
