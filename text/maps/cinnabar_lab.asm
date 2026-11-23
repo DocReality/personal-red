@@ -20,7 +20,8 @@ _Lab1Text3::
 
 _Lab1Text4::
 	text "#mon Lab"
-	line "R&D Room"
+	line "Research and"
+	cont "Development Room"
 	done
 
 _Lab1Text5::
