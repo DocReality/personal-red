@@ -198,7 +198,7 @@ _FuchsiaGymAfterBattleText6::
 
 _FuchsiaGymText_7564e::
 	text "Yo! Champ in"
-	line "making!"
+	line "Making!"
 
 	para "Fuchsia Gym is"
 	line "riddled with"

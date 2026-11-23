@@ -1,6 +1,6 @@
 _IndigoPlateauLobbyText2::
 	text "Yo! Champ in"
-	line "making!"
+	line "Making!"
 
 	para "At #mon League,"
 	line "you have to face"

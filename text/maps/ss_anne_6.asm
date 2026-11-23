@@ -70,7 +70,7 @@ _SSAnne6Text_61816::
 
 _SSAnne6Text_GymGuy::
 	text "Yo! Champ in the"
-	line "making!"
+	line "Making!"
 
 	para "Do I remind you of"
 	line "someone? You must"
@@ -137,7 +137,7 @@ _SSAnne6Text_GymGuy_party::
 	done
 
 _SSAnne6Text_GymGuy_bye::
-	text "Later then champ!"
+	text "Later then, Champ!"
 	done
 	
 _SSAnne6Text_GymGuy_ready::

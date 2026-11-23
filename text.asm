@@ -3053,8 +3053,8 @@ _IsItOKToTossItemText::
 	prompt
 
 _TooImportantToTossText::
-	text "That's too impor-"
-	line "tant to toss!"
+	text "That's too"
+	line "important to toss!"
 	prompt
 
 _AlreadyKnowsText::
@@ -3188,7 +3188,7 @@ _WrongMon3Text::
 	done
 
 _Thanks3Text::
-	text "Thanks pal!"
+	text "Thanks, pal!"
 	done
 
 _AfterTrade3Text::
