@@ -56,7 +56,7 @@ _ReceivedThunderbadgeText::
 _VermilionGymBattleText1::
 	text "When I was in the"
 	line "Army, Lt. Surge"
-	cont "was my strict co!"
+	cont "was my strict CO!"
 	done
 
 _VermilionGymEndBattleText1::

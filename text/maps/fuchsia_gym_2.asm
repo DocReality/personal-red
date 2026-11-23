@@ -147,7 +147,7 @@ _FuchsiaGymAfterBattleText5::
 
 ;joenote - added text for Janine in fuschia gym
 _FuchsiaGymBattleText6::
-	text "My name is janine,"
+	text "My name is Janine,"
 	line "and my dad is the";
 	cont "gym leader here."
 
