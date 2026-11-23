@@ -61,7 +61,7 @@ _TM31NoRoomText::
 _CopycatsHouse2FText2::
 	text "Doduo: Giiih!"
 
-	para "Mirror mirror on"
+	para "Mirror, mirror on"
 	line "the wall, who is"
 	cont "the fairest one"
 	cont "of all?"
@@ -74,7 +74,7 @@ _CopycatsHouse2FText3::
 	done
 
 _CopycatsHouse2FText6::
-	text "A game with mario"
+	text "A game with Mario"
 	line "wearing a bucket"
 	cont "on his head!"
 	done
