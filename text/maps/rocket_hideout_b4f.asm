@@ -33,8 +33,7 @@ _RocketHideout4BattleText2::
 	done
 
 _RocketHideout4EndBattleText2::
-	text "Burned"
-	line "again!"
+	text "Burned again!"
 	prompt
 
 _RocketHide4AfterBattleText2::

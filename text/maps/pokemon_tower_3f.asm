@@ -4,8 +4,7 @@ _PokemonTower3BattleText1::
 	done
 
 _PokemonTower3EndBattleText1::
-	text "Hwa!"
-	line "I'm saved!"
+	text "Hwa! I'm saved!"
 	prompt
 
 _PokemonTower3AfterBattleText1::

@@ -4,8 +4,8 @@ _Route13BattleText2::
 	done
 
 _Route13EndBattleText2::
-	text "My"
-	line "bird combo lost?"
+	text "My bird"
+	line "combo lost?"
 	prompt
 
 _Route13AfterBattleText2::
@@ -20,8 +20,7 @@ _Route13BattleText3::
 	done
 
 _Route13EndBattleText3::
-	text "Ohh!"
-	line "I lost!"
+	text "Ohh! I lost!"
 	prompt
 
 _Route13AfterBattleText3::
@@ -36,8 +35,7 @@ _Route13BattleText4::
 	done
 
 _Route13EndBattleText4::
-	text "Not"
-	line "enough!"
+	text "Not enough!"
 	prompt
 
 _Route13AfterBattleText4::
@@ -69,8 +67,7 @@ _Route13BattleText6::
 	done
 
 _Route13EndBattleText6::
-	text "Just"
-	line "messed up!"
+	text "Just messed up!"
 	prompt
 
 _Route13AfterBattleText6::
@@ -85,8 +82,7 @@ _Route13BattleText7::
 	done
 
 _Route13EndBattleText7::
-	text "The"
-	line "wind turned!"
+	text "The wind turned!"
 	prompt
 
 _Route13AfterBattleText7::
@@ -116,8 +112,7 @@ _Route13BattleText9::
 	done
 
 _Route13EndBattleText9::
-	text "It's over"
-	line "already?"
+	text "It's over already?"
 	prompt
 
 _Route13AfterBattleText9::
@@ -147,8 +142,7 @@ _Route13BattleText11::
 	done
 
 _Route13EndBattleText11::
-	text "Out"
-	line "of power!"
+	text "Out of power!"
 	prompt
 
 _Route13AfterBattleText11::

@@ -83,8 +83,7 @@ _SilphCo7BattleText1::
 	done
 
 _SilphCo7EndBattleText1::
-	text "Lights"
-	line "out!"
+	text "Lights out!"
 	prompt
 
 _SilphCo7AfterBattleText1::
@@ -101,8 +100,7 @@ _SilphCo7BattleText2::
 	done
 
 _SilphCo7EndBattleText2::
-	text "I'm"
-	line "done!"
+	text "I'm done!"
 	prompt
 
 _SilphCo7AfterBattleText2::
@@ -133,8 +131,7 @@ _SilphCo7BattleText4::
 	done
 
 _SilphCo7EndBattleText4::
-	text "Fine!"
-	line "I lost!"
+	text "Fine! I lost!"
 	prompt
 
 _SilphCo7AfterBattleText4::

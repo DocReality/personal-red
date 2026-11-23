@@ -54,8 +54,7 @@ _Route10BattleText3::
 	done
 
 _Route10EndBattleText3::
-	text "Oh no!"
-	line "My #mon!"
+	text "Oh no! My #mon!"
 	prompt
 
 _Route10AfterBattleText3::
@@ -87,8 +86,8 @@ _Route10BattleText5::
 	done
 
 _Route10EndBattleText5::
-	text "That"
-	line "cleared my head!"
+	text "That cleared"
+	line "my head!"
 	prompt
 
 _Route10AfterBattleText5::
@@ -103,8 +102,7 @@ _Route10BattleText6::
 	done
 
 _Route10EndBattleText6::
-	text "I'm"
-	line "not up to it!"
+	text "I'm not up to it!"
 	prompt
 
 _Route10AfterBattleText6::

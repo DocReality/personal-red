@@ -13,8 +13,7 @@ _ViridianForestBattleText1::
 	done
 
 _ViridianForestEndBattleText1::
-	text "No!"
-	line "Caterpie can't"
+	text "No! Caterpie can't"
 	cont "cut it!"
 	prompt
 
@@ -30,8 +29,7 @@ _ViridianForestBattleText2::
 	done
 
 _ViridianForestEndBattleText2::
-	text "Huh?"
-	line "I ran out of"
+	text "Huh? I ran out of"
 	cont "#mon!"
 	prompt
 
@@ -47,8 +45,7 @@ _ViridianForestBattleText3::
 	done
 
 _ViridianForestEndBattleText3::
-	text "I"
-	line "give! You're good"
+	text "I give! You're good"
 	cont "at this!"
 	prompt
 

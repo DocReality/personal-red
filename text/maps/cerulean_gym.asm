@@ -91,8 +91,7 @@ _CeruleanGymBattleText2::
 	done
 
 _CeruleanGymEndBattleText2::
-	text "That"
-	line "can't be!"
+	text "That can't be!"
 	prompt
 
 _CeruleanGymAfterBattleText2::

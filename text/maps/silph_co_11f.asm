@@ -102,8 +102,7 @@ _SilphCo11BattleText1::
 	done
 
 _SilphCo11EndBattleText1::
-	text "Don't..."
-	line "Please!"
+	text "Don't... Please!"
 	prompt
 
 _SilphCo11AfterBattleText1::
@@ -118,8 +117,7 @@ _SilphCo11BattleText2::
 	done
 
 _SilphCo11EndBattleText2::
-	text "Gaah!"
-	line "Demolished!"
+	text "Gaah! Demolished!"
 	prompt
 
 _SilphCo11AfterBattleText2::

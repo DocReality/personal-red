@@ -96,8 +96,7 @@ _VermilionGymBattleText3::
 	done
 
 _VermilionGymEndBattleText3::
-	text "Wow!"
-	line "Surprised me!"
+	text "Wow! Surprised me!"
 	prompt
 
 _VermilionGymAfterBattleText3::
