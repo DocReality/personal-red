@@ -105,9 +105,9 @@ _Route8EndBattleText7::
 	prompt
 
 _Route8AfterBattleText7::
-	text "Saffron's gate"
-	line "keeper won't let"
-	cont "us through."
+	text "Saffron's"
+	line "gatekeeper won't"
+	cont "let us through."
 	cont "He's so mean!"
 	done
 

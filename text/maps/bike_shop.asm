@@ -47,7 +47,7 @@ _BikeShopText_1d824::
 
 _BikeShopComeAgainText::
 	text "Come back again"
-	line "some time!"
+	line "sometime!"
 	done
 
 _BikeShopText_1d82f::
