@@ -1122,7 +1122,7 @@ _UseNextMonText::
 
 _PlayerBlackedOutText2::
 	text "<PLAYER> is out of"
-	line "useable #mon!"
+	line "usable #mon!"
 
 	para "<PLAYER> blacked"
 	line "out!"
@@ -1832,7 +1832,7 @@ _MonWasReleasedText::
 	TX_RAM wcf4b
 	text " was"
 	line "released outside."
-	cont "Bye @"
+	cont "Bye, @"
 
 _CF4BExclamationText::
 	TX_RAM wcf4b
@@ -2033,9 +2033,8 @@ _GameSavedText::
 	done
 
 _OlderFileWillBeErasedText::
-	text "The older file"
-	line "will be erased to"
-	cont "save. Okay?"
+	text "Overwrite the"
+	line "existing save?"
 	done
 
 _WhenYouChangeBoxText::
@@ -2215,7 +2214,7 @@ _NoEffectText::
 	prompt
 
 _ButItFailedText::
-	text "But, it failed! "
+	text "But it failed!"
 	prompt
 
 _DidntAffectText::
@@ -2456,7 +2455,7 @@ _PokemonFaintedText::
 
 _PlayerBlackedOutText::
 	text "<PLAYER> is out of"
-	line "useable #mon!"
+	line "usable #mon!"
 
 	para "<PLAYER> blacked"
 	line "out!"
@@ -2568,8 +2567,8 @@ _TryingToLearnText::
 	line "can't learn more"
 	cont "than 4 moves!"
 
-	para "Delete an older"
-	line "move to make room"
+	para "Forget a move to"
+	line "make room"
 	cont "for @"
 	TX_RAM wcf4b
 	text "?"
