@@ -1,7 +1,7 @@
 _CeladonMart4Text2::
 	text "I'm getting a"
 	line "# Doll for my"
-	cont "girl friend!"
+	cont "girlfriend!"
 	done
 
 _CeladonMart4Text3::
