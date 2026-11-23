@@ -2,7 +2,7 @@ _SilphCo5Text_1a010::
 	text "Team Rocket is"
 	line "in an uproar over"
 	cont "some intruder."
-	cont "That's you right?"
+	cont "That's you, right?"
 	done
 
 _SilphCo5Text_1a015::
