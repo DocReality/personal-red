@@ -9,7 +9,7 @@ _VermilionHouse1Text2::
 	text "Pidgey: Kurukkoo!@@"
 
 _VermilionHouse1Text3::
-	text "Dear pippi, I hope"
+	text "Dear Pippi, I hope"
 	line "to see you soon."
 
 	para "I heard Saffron"
