@@ -1122,7 +1122,7 @@ _UseNextMonText::
 
 _PlayerBlackedOutText2::
 	text "<PLAYER> is out of"
-	line "useable #mon!"
+	line "usable #mon!"
 
 	para "<PLAYER> blacked"
 	line "out!"
@@ -2456,7 +2456,7 @@ _PokemonFaintedText::
 
 _PlayerBlackedOutText::
 	text "<PLAYER> is out of"
-	line "useable #mon!"
+	line "usable #mon!"
 
 	para "<PLAYER> blacked"
 	line "out!"
