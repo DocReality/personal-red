@@ -61,9 +61,10 @@ _HM04ExplanationText::
 	cont "when you're out-"
 	cont "side of battle."
 
-	para "Oh yes, did you"
-	line "find secret house"
-	cont "in Safari Zone?"
+	para "Oh, yes! Did you"
+	line "find the secret"
+	cont "house in the"
+	cont "Safari Zone?"
 
 	para "If you do, you"
 	line "win an HM!"
