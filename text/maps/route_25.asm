@@ -36,8 +36,8 @@ _Route25AfterBattleText2::
 
 _Route25BattleText3::
 	text "I'm a cool guy."
-	line "I've got a girl"
-	cont "friend!"
+	line "I've got a"
+	cont "girlfriend!"
 	done
 
 _Route25EndBattleText3::
@@ -51,8 +51,8 @@ _Route25AfterBattleText3::
 	done
 
 _Route25BattleText4::
-	text "Hi! My boy"
-	line "friend is cool!"
+	text "Hi! My boyfriend"
+	line "is cool!"
 	done
 
 _Route25EndBattleText4::

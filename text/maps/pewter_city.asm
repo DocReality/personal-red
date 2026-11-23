@@ -106,7 +106,7 @@ _PewterCityText11::
 	line "#mon Gym"
 	cont "Leader: Brock"
 
-	para "The Rock Solid"
+	para "The Rock-Solid"
 	line "#mon Trainer!"
 	done
 

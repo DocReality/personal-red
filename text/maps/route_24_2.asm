@@ -93,7 +93,7 @@ ENDC
 _Route24EndBattleText5::
 IF DEF(_JPTXT)	;joenote - dirty joke lost in translation
 	text "That was"
-	line "unbelieveable."
+	line "unbelievable."
 ELSE
 	text "How could I"
 	line "lose?"
@@ -110,7 +110,7 @@ _Route24AfterBattleText5::
 
 _Route24BattleText6::
 	text "This is Nugget"
-	line "bridge! Beat us 5"
+	line "Bridge! Beat us 5"
 	cont "trainers and win"
 IF DEF(_JPTXT)	;joenote - dirty joke lost in translation
 	cont "a surprise from"
