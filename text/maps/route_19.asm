@@ -60,7 +60,7 @@ _Route19AfterBattleText4::
 _Route19BattleText5::
 	text "I tried diving"
 	line "for #mon, but"
-	cont "it was a no go!"
+	cont "it was a no-go!"
 	done
 
 _Route19EndBattleText5::
