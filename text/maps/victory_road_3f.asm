@@ -34,8 +34,7 @@ _VictoryRoad3BattleText4::
 	done
 
 _VictoryRoad3EndBattleText4::
-	text "I"
-	line "don't believe it!"
+	text "I don't believe it!"
 	prompt
 
 _VictoryRoad3AfterBattleText4::
