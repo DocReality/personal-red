@@ -103,7 +103,7 @@ _Route20AfterBattleText7::
 	done
 
 _Route20BattleText8::
-	text "My boy friend gave"
+	text "My boyfriend gave"
 	line "me big pearls!"
 	done
 
