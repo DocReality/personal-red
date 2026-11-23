@@ -370,7 +370,7 @@ _GymStatueText1::
 	TX_RAM wGymCityName
 	text ""
 	line "#mon Gym"
-	cont "leader: @"
+	cont "Leader: @"
 	TX_RAM wGymLeaderName
 	text ""
 
@@ -382,7 +382,7 @@ _GymStatueText2::
 	TX_RAM wGymCityName
 	text ""
 	line "#mon Gym"
-	cont "leader: @"
+	cont "Leader: @"
 	TX_RAM wGymLeaderName
 	text ""
 
@@ -2750,7 +2750,7 @@ _SetToBoxText::
 	TX_RAM wBoxMonNicks
 	text " was"
 	cont "sent to #mon"
-	cont "box @"
+	cont "Box @"
 	TX_RAM wcf4b
 	text " on PC!"
 	done
