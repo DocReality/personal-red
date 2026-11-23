@@ -114,7 +114,7 @@ _FightingDojoAfterBattleText4::
 
 _WantHitmonleeText::
 	text "You want the"
-	line "hard kicking"
+	line "hard-kicking"
 	cont "Hitmonlee?"
 	done
 
