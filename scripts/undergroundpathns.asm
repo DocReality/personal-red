@@ -45,7 +45,7 @@ MirrorTrainerText1:
 	jp TextScriptEnd
 	
 MirrorTrainerIntro:
-	text "I am pagliaccio,"
+	text "I am Pagliaccio,"
 	line "a performer most"
 	cont "princely and the"
 	cont "master of mimes!"

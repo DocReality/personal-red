@@ -1092,10 +1092,11 @@ _EnemyMonFaintedText::
 	prompt
 
 _MoneyForWinningText::
-	text "<PLAYER> got ¥@"
+	text "<PLAYER> got"
+	line "¥@"
 	TX_BCD wAmountMoneyWon, 3 | LEADING_ZEROES | LEFT_ALIGN
 	text ""
-	line "for winning!"
+	cont "for winning!"
 	prompt
 
 _TrainerDefeatedText::
@@ -2274,8 +2275,8 @@ _HitWithRecoilText::
 	prompt
 
 _ConvertedTypeText::
-	text "Converted type to"
-	line "<TARGET>'s!"
+	text "Copied the"
+	line "target's type!"
 	prompt
 
 _StatusChangesEliminatedText::
