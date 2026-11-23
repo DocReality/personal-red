@@ -32,8 +32,8 @@ _CeladonGymText_48a63::
 	para "You are remarkably"
 	line "strong."
 
-	para "I must confer you"
-	line "the Rainbow Badge."
+	para "I award you the"
+	line "Rainbow Badge."
 	prompt
 
 _CeladonGymText_48a68::

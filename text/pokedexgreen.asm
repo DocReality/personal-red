@@ -18,7 +18,7 @@ _KangaskhanDexEntry::
 
 	page "It is skilled at"
 	next "attacking with"
-	next "COMET PUNCH"
+	next "Comet Punch"
 	dex
 
 _NidoranMDexEntry::
@@ -48,7 +48,7 @@ _SpearowDexEntry::
 
 	page "frail, it can be"
 	next "a tough foe that"
-	next "uses MIRROR MOVE"
+	next "uses Mirror Move"
 	dex
 
 _VoltorbDexEntry::
@@ -56,9 +56,9 @@ _VoltorbDexEntry::
 	next "identity is"
 	next "unknown. It is"
 
-	page "said to SCREECH"
+	page "said to Screech"
 	next "or suddenly"
-	next "SELFDESTRUCT"
+	next "Selfdestruct"
 	dex
 
 _NidokingDexEntry::
@@ -72,13 +72,13 @@ _NidokingDexEntry::
 	dex
 
 _SlowbroDexEntry::
-	text "When a SLOWPOKE"
+	text "When a Slowpoke"
 	next "went hunting at"
 	next "sea, its tail was"
 	
-	page "bit by SHELLDER."
+	page "bit by Shellder."
 	next "It then evolved"
-	next "into SLOWBRO"
+	next "into Slowbro"
 	dex
 
 _IvysaurDexEntry::
@@ -126,7 +126,7 @@ _GrimerDexEntry::
 	next "x-rays from the"
 	next "moon transforms"
 	
-	page "into GRIMER. It"
+	page "into Grimer. It"
 	next "loves feeding on"
 	next "filthy things"
 	dex
@@ -178,7 +178,7 @@ _RhyhornDexEntry::
 	
 	page "shatter even a"
 	next "tower with its"
-	next "charging TACKLES"
+	next "charging Tackles"
 	dex
 
 _LaprasDexEntry::
@@ -214,7 +214,7 @@ _MewDexEntry::
 _GyaradosDexEntry::
 	text "Its nature is"
 	next "very aggressive."
-	next "The HYPER BEAM it"
+	next "The Hyper Beam it"
 	
 	page "shoots from its"
 	next "mouth incinerates"
@@ -358,13 +358,13 @@ _KadabraDexEntry::
 	
 	page "powers awoke in"
 	next "bed transformed"
-	next "into a KADABRA"
+	next "into a Kadabra"
 	dex
 
 _GravelerDexEntry::
 	text "Be careful while"
 	next "hiking mountain"
-	next "trails. GRAVELER"
+	next "trails. Graveler"
 	
 	page "may come rolling"
 	next "down the path"
@@ -494,7 +494,7 @@ _ElectabuzzDexEntry::
 _MagnetonDexEntry::
 	text "A linked cluster"
 	next "formed of several"
-	next "MAGNEMITE. It"
+	next "Magnemite. It"
 	
 	page "discharges strong"
 	next "magnetic waves at"
@@ -543,7 +543,7 @@ _DiglettDexEntry::
 
 _TaurosDexEntry::
 	text "When it is about"
-	next "to TACKLE, it"
+	next "to Tackle, it"
 	next "whips its body"
 	
 	page "repeatedly with"
@@ -722,13 +722,12 @@ _DratiniDexEntry::
 	dex
 
 _DragonairDexEntry::
-	text "Said to line in"
+	text "Said to live in"
 	next "seas and lakes."
-	next "Even though it has"
+	next "It has no wings,"
 	
-	page "no wings, it has"
-	next "been seen flying"
-	next "occasionally"
+	page "but has been seen"
+	next "flying at times"
 	dex
 
 _KabutoDexEntry::
@@ -1168,9 +1167,9 @@ _WeezingDexEntry::
 	next "mutation can"
 	next "cause two small"
 	
-	page "KOFFING twins to"
+	page "Koffing twins to"
 	next "become conjoined"
-	next "as a WEEZING"
+	next "as a Weezing"
 	dex
 
 _PersianDexEntry::
@@ -1200,7 +1199,7 @@ _HaunterDexEntry::
 	
 	page "dark when nobody"
 	next "is around, a"
-	next "HAUNTER is there"
+	next "Haunter is there"
 	dex
 
 _AbraDexEntry::
@@ -1229,7 +1228,7 @@ _PidgeottoDexEntry::
 	next "developed. It can"
 	
 	page "carry prey like"
-	next "EXEGGCUTE to its"
+	next "Exeggcute to its"
 	next "nest 100 km away"
 	dex
 
@@ -1398,7 +1397,7 @@ _MagnemiteDexEntry::
 	next "always hovering."
 	next "Discharges moves"
 	
-	page "like THUNDER WAVE"
+	page "like Thunder Wave"
 	next "from the units at"
 	next "its sides"
 	dex

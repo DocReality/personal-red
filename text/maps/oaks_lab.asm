@@ -132,9 +132,9 @@ _OaksLabGivePokeballsText2::
 	line "#mon appears,"
 	cont "it's fair game."
 
-	para "Just throw a"
-	line "Pokéball at it and"
-	cont "try to catch it!"
+	para "Throw a Pokéball"
+	line "at it to try"
+	cont "to catch it!"
 
 	para "This won't always"
 	line "work, though."
@@ -460,8 +460,8 @@ _OaksLabText_4422e::
 	done
 
 _OaksLabText_44233::
-	text "You finally got at"
-	line "least 100 species!"
+	text "You've caught"
+	line "100 species!"
 	cont "I can't believe"
 	cont "how good you are!"
 	done

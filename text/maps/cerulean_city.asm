@@ -220,7 +220,7 @@ IF DEF(_JPTXT)
 _CeruleanCityText16::
 	text "Grass and caves"
 	line "handled easily!"
-	cont "Miracle cycle"
+	cont "Miracle Cycle"
 	done
 
 ELSE

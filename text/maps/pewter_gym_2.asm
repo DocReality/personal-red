@@ -54,8 +54,8 @@ _PewterGymText_5c4bc::
 	line "you for granted."
 
 	para "As proof of your"
-	line "victory, here's"
-	cont "the Boulder Badge!"
+	line "victory, take the"
+	cont "Boulder Badge!"
 
 	para "<PLAYER> received"
 	line "the Boulder Badge!@@"
