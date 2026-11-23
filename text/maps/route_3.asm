@@ -14,8 +14,7 @@ _Route3BattleText1::
 	done
 
 _Route3EndBattleText1::
-	text "You"
-	line "beat me again!"
+	text "You beat me again!"
 	prompt
 
 _Route3AfterBattleText1::
@@ -32,8 +31,7 @@ _Route3BattleText2::
 	done
 
 _Route3EndBattleText2::
-	text "I don't"
-	line "believe it!"
+	text "I don't believe it!"
 	prompt
 
 _Route3AfterBattleText2::
@@ -49,8 +47,7 @@ _Route3BattleText3::
 	done
 
 _Route3EndBattleText3::
-	text "You're"
-	line "mean!"
+	text "You're mean!"
 	prompt
 
 _Route3AfterBattleText3::
@@ -99,8 +96,7 @@ _Route3BattleText6::
 	done
 
 _Route3EndBattleText6::
-	text "Lost!"
-	line "Lost! Lost!"
+	text "Lost! Lost! Lost!"
 	prompt
 
 _Route3AfterBattleText6::
@@ -115,8 +111,7 @@ _Route3BattleText7::
 	done
 
 _Route3EndBattleText7::
-	text "Done"
-	line "like dinner!"
+	text "Done like dinner!"
 	prompt
 
 _Route3AfterBattleText7::

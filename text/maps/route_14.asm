@@ -5,8 +5,7 @@ _Route14BattleText1::
 	done
 
 _Route14EndBattleText1::
-	text "Not"
-	line "good enough!"
+	text "Not good enough!"
 	prompt
 
 _Route14AfterBattleText1::
@@ -24,8 +23,7 @@ _Route14BattleText2::
 	done
 
 _Route14EndBattleText2::
-	text "Not"
-	line "ready yet!"
+	text "Not ready yet!"
 	prompt
 
 _Route14AfterBattleText2::
@@ -41,8 +39,7 @@ _Route14BattleText3::
 	done
 
 _Route14EndBattleText3::
-	text "Aww,"
-	line "bummer!"
+	text "Aww, bummer!"
 	prompt
 
 _Route14AfterBattleText3::
@@ -59,8 +56,8 @@ _Route14BattleText4::
 	done
 
 _Route14EndBattleText4::
-	text "Shot"
-	line "down in flames!"
+	text "Shot down"
+	line "in flames!"
 	prompt
 
 _Route14AfterBattleText4::
@@ -75,8 +72,7 @@ _Route14BattleText5::
 	done
 
 _Route14EndBattleText5::
-	text "Why?"
-	line "Why'd I lose?"
+	text "Why? Why'd I lose?"
 	prompt
 
 _Route14AfterBattleText5::
@@ -95,8 +91,7 @@ _Route14BattleText6::
 	done
 
 _Route14EndBattleText6::
-	text "I"
-	line "knew it!"
+	text "I knew it!"
 	prompt
 
 _Route14AfterBattleText6::
@@ -127,8 +122,7 @@ _Route14BattleText8::
 	done
 
 _Route14EndBattleText8::
-	text "What?"
-	line "You!?"
+	text "What? You!?"
 	prompt
 
 _Route14AfterBattleText8::
@@ -161,8 +155,7 @@ _Route14BattleText10::
 	done
 
 _Route14EndBattleText10::
-	text "Blown"
-	line "away!"
+	text "Blown away!"
 	prompt
 
 _Route14AfterBattleText10::

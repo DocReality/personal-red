@@ -4,8 +4,7 @@ _Route24BattleText1::
 	done
 
 _Route24EndBattleText1::
-	text "I"
-	line "thought not!"
+	text "I thought not!"
 	prompt
 
 _Route24AfterBattleText1::
@@ -45,8 +44,7 @@ _Route24BattleText3::
 	done
 
 _Route24EndBattleText3::
-	text "I lost"
-	line "too!"
+	text "I lost too!"
 	prompt
 
 _Route24AfterBattleText3::
@@ -66,12 +64,10 @@ ENDC
 
 _Route24EndBattleText4::
 IF DEF(_JPTXT)	;joenote - dirty joke lost in translation
-	text "Ugh!"
-	line "I can't last"
+	text "Ugh! I can't last"
 	cont "any longer."
 ELSE
-	text "Ow!"
-	line "Stomped flat!"
+	text "Ow! Stomped flat!"
 ENDC
 	prompt
 
@@ -124,8 +120,7 @@ ENDC
 	done
 
 _Route24EndBattleText6::
-	text "Whoo!"
-	line "Good stuff!"
+	text "Whoo! Good stuff!"
 	prompt
 
 _Route24AfterBattleText6::

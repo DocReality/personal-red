@@ -14,8 +14,7 @@ _BlaineBattleText::
 	done
 
 _BlaineEndBattleText::
-	text "I have"
-	line "burnt out!"
+	text "I have burnt out!"
 
 	para "You have earned"
 	line "the Volcano Badge!@@"

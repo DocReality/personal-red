@@ -39,8 +39,7 @@ _Route12BattleText2::
 	done
 
 _Route12EndBattleText2::
-	text "That"
-	line "one got away!"
+	text "That one got away!"
 	prompt
 
 _Route12AfterBattleText2::
@@ -86,8 +85,7 @@ _Route12BattleText5::
 	done
 
 _Route12EndBattleText5::
-	text "Too"
-	line "much!"
+	text "Too much!"
 	prompt
 
 _Route12AfterBattleText5::
@@ -102,8 +100,7 @@ _Route12BattleText6::
 	done
 
 _Route12EndBattleText6::
-	text "It's"
-	line "not easy..."
+	text "It's not easy..."
 	prompt
 
 _Route12AfterBattleText6::
@@ -119,8 +116,7 @@ _Route12BattleText7::
 	done
 
 _Route12EndBattleText7::
-	text "Lost"
-	line "it!"
+	text "Lost it!"
 	prompt
 
 _Route12AfterBattleText7::

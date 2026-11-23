@@ -21,8 +21,7 @@ _MtMoon1BattleText3::
 	done
 
 _MtMoon1EndBattleText3::
-	text "Losing"
-	line "stinks!"
+	text "Losing stinks!"
 	prompt
 
 _MtMoon1AfterBattleText3::
@@ -38,8 +37,7 @@ _MtMoon1BattleText4::
 	done
 
 _MtMoon1EndBattleText4::
-	text "Oh!"
-	line "I lost it!"
+	text "Oh! I lost it!"
 	prompt
 
 _MtMoon1AfterBattleText4::
@@ -53,8 +51,8 @@ _MtMoon1BattleText5::
 	done
 
 _MtMoon1EndBattleText5::
-	text "My"
-	line "#mon won't do!"
+	text "My #mon"
+	line "won't do!"
 	prompt
 
 _MtMoon1AfterBattleText5::
@@ -85,8 +83,7 @@ _MtMoon1BattleText7::
 	done
 
 _MtMoon1EndBattleText7::
-	text "You"
-	line "got me!"
+	text "You got me!"
 	prompt
 
 _MtMoon1AfterBattleText7::
@@ -102,8 +99,7 @@ _MtMoon1BattleText8::
 	done
 
 _MtMoon1EndBattleText8::
-	text "I"
-	line "lost."
+	text "I lost."
 	prompt
 
 _MtMoon1AfterBattleText8::

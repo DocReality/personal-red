@@ -19,8 +19,7 @@ _RockTunnel2BattleText3::
 	done
 
 _RockTunnel2EndBattleText3::
-	text "Oops!"
-	line "Out-muscled!"
+	text "Oops! Out-muscled!"
 	prompt
 
 _RockTunnel2AfterBattleText3::
@@ -52,8 +51,7 @@ _RockTunnel2BattleText5::
 	done
 
 _RockTunnel2EndBattleText5::
-	text "Well,"
-	line "that's that."
+	text "Well, that's that."
 	prompt
 
 _RockTunnel2AfterBattleText5::
@@ -87,8 +85,7 @@ _RockTunnel2BattleText7::
 	done
 
 _RockTunnel2EndBattleText7::
-	text "Oh!"
-	line "I lost!"
+	text "Oh! I lost!"
 	prompt
 
 _RockTunnel2AfterBattleText7::
@@ -103,6 +100,5 @@ _RockTunnel2BattleText8::
 	done
 
 _RockTunnel2EndBattleText8::
-	text "Fired"
-	line "away!"
+	text "Fired away!"
 	prompt

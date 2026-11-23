@@ -36,8 +36,7 @@ _GaryChampionIntroText::
 	done
 
 _GaryDefeatedText::
-	text "No!"
-	line "That can't be!"
+	text "No! That can't be!"
 	cont "You beat my best!"
 
 	para "After all that"

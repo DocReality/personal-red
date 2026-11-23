@@ -104,8 +104,7 @@ _SaffronGymBattleText1::
 	done
 
 _SaffronGymEndBattleText1::
-	text "Not"
-	line "good enough!"
+	text "Not good enough!"
 	prompt
 
 _SaffronGymAfterBattleText1::
@@ -145,8 +144,7 @@ _SaffronGymBattleText3::
 	done
 
 _SaffronGymEndBattleText3::
-	text "I knew"
-	line "it!"
+	text "I knew it!"
 	prompt
 
 _SaffronGymAfterBattleText3::
@@ -179,8 +177,7 @@ _SaffronGymBattleText5::
 	done
 
 _SaffronGymEndBattleText5::
-	text "I lost"
-	line "after all!"
+	text "I lost after all!"
 	prompt
 
 _SaffronGymAfterBattleText5::
