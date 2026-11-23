@@ -986,7 +986,7 @@ _FoundHiddenItemText::
 	text "!@@"
 
 _HiddenItemBagFullText::
-	text "But, <PLAYER> has"
+	text "But <PLAYER> has"
 	line "no more room for"
 	cont "other items!"
 	done
@@ -1076,7 +1076,7 @@ _HurtByPoisonText::
 
 _HurtByBurnText::
 	text "<USER>'s"
-	line "hurt by the burn!"
+	line "hurt by its burn!"
 	prompt
 
 _HurtByLeechSeedText::
@@ -2811,7 +2811,7 @@ _ItemUseBallText03::
 
 _ItemUseBallText04::
 	text "Shoot! It was so"
-	line "close too!"
+	line "close, too!"
 	prompt
 
 _ItemUseBallText05::
@@ -2914,12 +2914,12 @@ _ItemfinderFoundNothingText::
 
 _RaisePPWhichTechniqueText::
 	text "Raise PP of which"
-	line "technique?"
+	line "move?"
 	done
 
 _RestorePPWhichTechniqueText::
 	text "Restore PP of"
-	line "which technique?"
+	line "which move?"
 	done
 
 _PPMaxedOutText::
@@ -3106,7 +3106,7 @@ _WrongMon1Text::
 	done
 
 _Thanks1Text::
-	text "Hey thanks!"
+	text "Hey, thanks!"
 	done
 
 _AfterTrade1Text::
