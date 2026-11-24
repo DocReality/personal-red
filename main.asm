@@ -1025,7 +1025,7 @@ CooltrainerMPic::  INCBIN "pic/trainer/cooltrainerm.pic"
 CooltrainerFPic::  INCBIN "pic/trainer/cooltrainerf.pic"
 BrunoPic::         INCBIN "pic/trainer/bruno.pic"
 BrockPic::         INCBIN "pic/trainer/brock.pic"
-MistyPic::         INCBIN "pic/trainer/misty.pic"
+MistyPic::         INCBIN "pic/ytrainer/misty.pic"
 LtSurgePic::       INCBIN "pic/trainer/lt.surge.pic"
 ErikaPic::         INCBIN "pic/ytrainer/erika.pic"	;joenote - use her yellow sprite to ditch the funerary clothes
 KogaPic::          INCBIN "pic/trainer/koga.pic"
