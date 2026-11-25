@@ -55,7 +55,7 @@ _SSAnne6Text_6180c::
 	done
 
 _SSAnne6Text_61811::
-	text "Elektrile au"
+	text "Eelektrik au"
 	line "Barbecue!"
 
 	para "Les guests will"
