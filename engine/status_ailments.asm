@@ -40,7 +40,7 @@ PrintStatusAilment:
 .par
 	ld a, "P"
 	ld [hli], a
-	ld a, "a"
+	ld a, "A"
 	ld [hli], a
-	ld [hl], "r"
+	ld [hl], "R"
 	ret
