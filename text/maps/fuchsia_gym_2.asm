@@ -128,9 +128,9 @@ _FuchsiaGymBattleText5::
 	line "way of the ninja"
 	cont "with Master Koga!"
 
-	para "Ninja have a long"
+	para "Ninjas have a long"
 	line "history of using"
-	cont "animals!"
+	cont "#mon!"
 	done
 
 _FuchsiaGymEndBattleText5::

@@ -47,25 +47,27 @@ _SSAnne6Text_61807::
 	prompt
 
 _SSAnne6Text_6180c::
-	text "Salmon du Salad!"
+	text "Veluza du Salad!"
 
 	para "Les guests may"
-	line "gripe it's fish"
+	line "gripe it's Veluza"
 	cont "again, however!"
 	done
 
 _SSAnne6Text_61811::
-	text "Eels au Barbecue!"
+	text "Eelektrik au"
+	line "Barbecue!"
 
 	para "Les guests will"
 	line "mutiny, I fear."
 	done
 
 _SSAnne6Text_61816::
-	text "Prime Beef Steak!"
+	text "Bouffalant Steak!"
 
 	para "But, have I enough"
-	line "fillets du beef?"
+	line "fillets du"
+	cont "Bouffalant?"
 	done
 
 _SSAnne6Text_GymGuy::
