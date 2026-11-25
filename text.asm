@@ -1070,13 +1070,15 @@ _EnemyRanText::
 	prompt
 
 _HurtByPoisonText::
-	text "<USER>'s"
-	line "hurt by poison!"
+	text "<USER>"
+	line "is hurt by"
+	cont "poison!"
 	prompt
 
 _HurtByBurnText::
-	text "<USER>'s"
-	line "hurt by the burn!"
+	text "<USER>"
+	line "is hurt by"
+	cont "the burn!"
 	prompt
 
 _HurtByLeechSeedText::
@@ -1236,8 +1238,9 @@ _IsFrozenText::
 	prompt
 
 _FullyParalyzedText::
-	text "<USER>'s"
-	line "fully paralyzed!"
+	text "<USER>"
+	line "is fully"
+	cont "paralyzed!"
 	prompt
 
 _FlinchedText::
@@ -1251,8 +1254,9 @@ _MustRechargeText::
 	prompt
 
 _DisabledNoMoreText::
-	text "<USER>'s"
-	line "disabled no more!"
+	text "<USER>"
+	line "is no longer"
+	cont "disabled!"
 	prompt
 
 _IsConfusedText::
@@ -1266,8 +1270,9 @@ _HurtItselfText::
 	prompt
 
 _ConfusedNoMoreText::
-	text "<USER>'s"
-	line "confused no more!"
+	text "<USER>"
+	line "is no longer"
+	cont "confused!"
 	prompt
 
 _SavingEnergyText::
@@ -1281,8 +1286,9 @@ _UnleashedEnergyText::
 	prompt
 
 _ThrashingAboutText::
-	text "<USER>'s"
-	line "thrashing about!"
+	text "<USER>"
+	line "is thrashing"
+	cont "about!"
 	done
 
 _AttackContinuesText::
@@ -2082,8 +2088,9 @@ _FellAsleepText::
 	prompt
 
 _AlreadyAsleepText::
-	text "<TARGET>'s"
-	line "already asleep!"
+	text "<TARGET>"
+	line "is already"
+	cont "asleep!"
 	prompt
 
 _PoisonedText::
@@ -2092,8 +2099,9 @@ _PoisonedText::
 	prompt
 
 _BadlyPoisonedText::
-	text "<TARGET>'s"
-	line "badly poisoned!"
+	text "<TARGET>"
+	line "is badly"
+	cont "poisoned!"
 	prompt
 
 _BurnedText::
@@ -2229,9 +2237,10 @@ _IsUnaffectedText::
 	prompt
 
 _ParalyzedMayNotAttackText::
-	text "<TARGET>'s"
-	line "paralyzed! It may"
-	cont "not attack!"
+	text "<TARGET>"
+	line "is paralyzed!"
+	cont "It may not"
+	cont "attack!"
 	prompt
 
 _SubstituteText::
@@ -2255,8 +2264,9 @@ _CoinsScatteredText::
 	prompt
 
 _GettingPumpedText::
-	text "<USER>'s"
-	line "getting pumped!"
+	text "<USER>"
+	line "is getting"
+	cont "pumped!"
 	prompt
 
 _WasSeededText::
@@ -2270,8 +2280,9 @@ _EvadedAttackText::
 	prompt
 
 _HitWithRecoilText::
-	text "<USER>'s"
-	line "hit with recoil!"
+	text "<USER>"
+	line "is hit with"
+	cont "recoil!"
 	prompt
 
 _ConvertedTypeText::
@@ -2309,9 +2320,10 @@ _TransformedText::
 	prompt
 
 _LightScreenProtectedText::
-	text "<USER>'s"
-	line "protected against"
-	cont "special attacks!"
+	text "<USER>"
+	line "is protected"
+	cont "against special"
+	cont "attacks!"
 	prompt
 
 _ReflectGainedArmorText::
@@ -2320,8 +2332,9 @@ _ReflectGainedArmorText::
 	prompt
 
 _ShroudedInMistText::
-	text "<USER>'s"
-	line "shrouded in mist!"
+	text "<USER>"
+	line "is shrouded"
+	cont "in mist!"
 	prompt
 
 _SuckedHealthText::
