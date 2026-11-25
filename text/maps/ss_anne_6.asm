@@ -63,11 +63,11 @@ _SSAnne6Text_61811::
 	done
 
 _SSAnne6Text_61816::
-	text "Boffalant Steak!"
+	text "Bouffalant Steak!"
 
 	para "But, have I enough"
 	line "fillets du"
-	cont "Boffalant?"
+	cont "Bouffalant?"
 	done
 
 _SSAnne6Text_GymGuy::
