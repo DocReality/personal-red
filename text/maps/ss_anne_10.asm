@@ -76,9 +76,8 @@ _SSAnne10EndBattleText5::
 	prompt
 
 _SSAnne10AfterBattleText5::
-	text "Jellyfish some-"
-	line "times drift into"
-	cont "the ship."
+	text "Tentacool drift"
+	line "into the ship."
 	done
 
 _SSAnne10BattleText6::

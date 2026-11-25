@@ -101,7 +101,7 @@ _ExeggutorDexEntry::
 _LickitungDexEntry::
 	text "Its tongue can be"
 	next "extended like a"
-	next "chameleon's. It"
+	next "Kecleon. It"
 
 	page "leaves a tingling"
 	next "sensation when it"
@@ -563,7 +563,7 @@ _VenonatDexEntry::
 	next "shadows of tall"
 	next "trees where it"
 
-	page "eats insects. It"
+	page "eats bugs. It"
 	next "is attracted by"
 	next "light at night"
 	dex
