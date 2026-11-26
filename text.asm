@@ -1094,11 +1094,10 @@ _EnemyMonFaintedText::
 	prompt
 
 _MoneyForWinningText::
-	text "<PLAYER> got"
+	text "<PLAYER> won"
 	line "¥@"
 	TX_BCD wAmountMoneyWon, 3 | LEADING_ZEROES | LEFT_ALIGN
-	text ""
-	cont "for winning!"
+	text " in cash!"
 	prompt
 
 _TrainerDefeatedText::
